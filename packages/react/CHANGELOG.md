@@ -1,5 +1,19 @@
 # @chakra-ui/react
 
+## 3.0.0-next.3
+
+### Minor Changes
+
+- [`de9c0a0`](https://github.com/chakra-ui/chakra-ui/commit/de9c0a0d78f70db1fb246ea8ec377e57e10919e7)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Add `DataList`
+  component
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/hooks@3.0.0-next.3
+  - @chakra-ui/utils@3.0.0-next.3
+
 ## 3.0.0-next.2
 
 ### Patch Changes
